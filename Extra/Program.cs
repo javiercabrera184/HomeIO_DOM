@@ -8,11 +8,10 @@ namespace EngineIO.Samples
 {
     class Program
     {
-        //In this sample we are switching the living room light on and off 10 times.
+        
         static void Main(string[] args)
         {
-            //We are using a MemoryBit which we get from the MemoryMap.
-            //You can find all the memory addresses at the Home I/O Memory Address document.
+            
 
             do
             {
