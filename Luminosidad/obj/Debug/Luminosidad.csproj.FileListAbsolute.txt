@@ -1,0 +1,9 @@
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\bin\Debug\Luminosidad.exe.config
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\bin\Debug\Luminosidad.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\bin\Debug\Luminosidad.pdb
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\bin\Debug\EngineIO.dll
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\obj\Debug\Luminosidad.csprojAssemblyReference.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\obj\Debug\Luminosidad.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\obj\Debug\Luminosidad.csproj.CopyComplete
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\obj\Debug\Luminosidad.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Luminosidad\obj\Debug\Luminosidad.pdb
