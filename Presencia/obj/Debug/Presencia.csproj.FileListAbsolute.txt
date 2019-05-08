@@ -1,0 +1,9 @@
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\Presencia.exe.config
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\Presencia.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\Presencia.pdb
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\EngineIO.dll
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Presencia.csprojAssemblyReference.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Presencia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Presencia.csproj.CopyComplete
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Presencia.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Presencia.pdb

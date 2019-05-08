@@ -1,0 +1,9 @@
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\bin\Debug\Persianas.exe.config
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\bin\Debug\Persianas.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\bin\Debug\Persianas.pdb
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\bin\Debug\EngineIO.dll
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\obj\Debug\Persianas.csprojAssemblyReference.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\obj\Debug\Persianas.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\obj\Debug\Persianas.csproj.CopyComplete
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\obj\Debug\Persianas.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Write Sample\obj\Debug\Persianas.pdb

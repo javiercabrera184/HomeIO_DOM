@@ -1,0 +1,9 @@
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\Read Sample.exe.config
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\Read Sample.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\Read Sample.pdb
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\bin\Debug\EngineIO.dll
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Read Sample.csprojAssemblyReference.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Read Sample.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Read Sample.csproj.CopyComplete
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Read Sample.exe
+C:\Users\Antonio Javier\Master\DOM\HomeIO\Read Sample\obj\Debug\Read Sample.pdb
